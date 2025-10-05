@@ -46,14 +46,14 @@ cloudflared access tcp --hostname <tanya nugrah> --url localhost:25565
 # Jika sudah terkoneksi dengan server
 ## Buka Minecraft Java Edition lalu pilih Multiplayer
 
-<img width="1372" height="869" alt="image" src="https://github.com/user-attachments/assets/b299c763-c8f6-40ba-8368-4017e931404f" />
+<img width="1327" height="831" alt="image" src="https://github.com/user-attachments/assets/55625f0b-334e-47a3-8041-4aaf6bc7dd88" />
 
 ## Pilih Add Server
 
-<img width="421" height="104" alt="image" src="https://github.com/user-attachments/assets/6d061f7d-e545-41bc-8335-83baf41f8b77" />
+<img width="425" height="103" alt="image" src="https://github.com/user-attachments/assets/8d22a5e2-f20e-4fbf-bdb6-3072a5d5adc6" />
 
-## Isi seperti ini (Server Name terserah yang penting Server Address ikutin)
-<img width="848" height="734" alt="image" src="https://github.com/user-attachments/assets/93d321eb-16ed-4bf2-b140-d4809f3c0f95" />
+## Isi seperti ini (Server Name terserah yang penting Server Address ikutin) lalu tekan Done
+<img width="822" height="711" alt="image" src="https://github.com/user-attachments/assets/7bddcc35-9a03-41ee-aa67-6509756938ba" />
 
 ## Done tinggal main
-<img width="1201" height="145" alt="image" src="https://github.com/user-attachments/assets/c1f4c636-3051-489e-9424-8dcd3514c927" />
+<img width="1208" height="158" alt="image" src="https://github.com/user-attachments/assets/1bf222d6-31c9-4465-913f-e31d671eccd8" />
