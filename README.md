@@ -21,10 +21,10 @@ sudo apt install gpg curl
 sudo mkdir -p --mode=0755 /usr/share/keyrings && curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /usr/share/keyrings/cloudflare-main.gpg >/dev/null && echo 'deb [signed-by=/usr/share/keyrings/cloudflare-main.gpg] https://pkg.cloudflare.com/cloudflared any main' | sudo tee /etc/apt/sources.list.d/cloudflared.list && sudo apt update -y && sudo apt update -y && sudo apt install cloudflared
 ```
 
-### (Jika sudah pernah melakukan perintah diatas bisa langsung jalankan perintah akses ke server dibawah)
-### Akses ke server
+### (Jika sudah pernah melakukan perintah diatas bisa langsung jalankan perintah akses ke server dibawah
+### Akses ke server (dibagian (tanya nugrah) tanyain nugrah apa yang harus diisi disitu)
 ```bash
-cloudflared access tcp --hostname <tanya nugrah> --url localhost:25565
+cloudflared access tcp --hostname (tanya nugrah) --url localhost:25565
 ```
 ### (TERMINAL JANGAN DITUTUP JIKA MASIH INGIN TERKONEKSI KE SERVER)
 
@@ -34,10 +34,10 @@ cloudflared access tcp --hostname <tanya nugrah> --url localhost:25565
 ### Download dan install program cloudflared berikut:
 ### (Jika sudah pernah download dan install cloudflared bisa langsung jalankan perintah akses ke server dibawah)
 https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-windows-amd64.msi
-### Akses ke server
+### Akses ke server (dibagian (tanya nugrah) tanyain nugrah apa yang harus diisi disitu)
 ### Buka Windows PowerShell lalu jalankan perintah:
 ```bash
-cloudflared access tcp --hostname <tanya nugrah> --url localhost:25565
+cloudflared access tcp --hostname (tanya nugrah) --url localhost:25565
 ```
 ### (WINDOWS POWERSHELL JANGAN DITUTUP JIKA MASIH INGIN TERKONEKSI KE SERVER )
 
